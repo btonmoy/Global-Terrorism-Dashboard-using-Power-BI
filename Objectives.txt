@@ -1,0 +1,18 @@
+
+Project Title: Global Terrorism Dashboard using Power BI.
+
+
+1. Success Rate by Type of Attacks
+2. Success Rate by Terror Target Type
+3. Success Rate by Terror Most Using Weapon Type
+4. Success Rate by Terror Attack Country Wise
+5. Success Rate by Terror Attack Region Wise
+6. Terror Attack Success Rate by Name of Group
+7. Total Terror Attacks by Year
+8. Slicer -> country
+9. Cards-> i) Most Used Weapon
+		ii) Total Terror Targets
+		iii) Maximum Terror Attacks Year
+		iv) Most Deadly Terror Group
+
+Project Collection From ( Data Visionary YouTube Channel )
